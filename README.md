@@ -6,7 +6,7 @@
 
 ---
 
-## 🔧 What I Do
+## 🔧 What I Do?
 
 - Coordinate real-time support for enterprise users across AD, Microsoft 365, and SAP S/4
 - Reduce ticket escalation loops by building smarter workflows
@@ -16,7 +16,7 @@
 
 ---
 
-## 💡 What I'm Learning
+## 💡 What I'm Learning?
 
 - Python scripting for IT automation
 - PowerShell for endpoint and access control
