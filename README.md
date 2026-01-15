@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sanya Rajput
 
-🎯 **IT Operations Analyst** at HCLTech (Client: Ericsson Global)  
+🎯 **IT Operations Analyst** at HCLTech
 🛠️ Specializing in enterprise systems, endpoint management, and real-time issue resolution  
 🚀 Learning Python automation, cloud security, and scalable IT support solutions  
 
