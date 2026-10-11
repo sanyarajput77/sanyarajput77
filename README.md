@@ -59,13 +59,9 @@ I approach database administration not just as maintenance, but as an engineerin
 
 ---
 
-## 🎓 Education & Languages
+## 🎓 Education
 
 - **Education:** Bachelor of Computer Applications (BCA) &mdash; Amity University *(Expected completion: January 2027)*
-- **Languages:**
-  - **Hindi:** Native / Bilingual
-  - **English:** Full Professional Proficiency
-
 ---
 
 ## 🔭 What I'm Exploring Next
